@@ -1,0 +1,8 @@
+groq
+pydantic
+kokoro-onnx
+soundfile
+sounddevice
+playsound3
+pynput
+numpy
